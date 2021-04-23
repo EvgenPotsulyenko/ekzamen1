@@ -1,0 +1,8 @@
+﻿  ekzamen.cpp
+C:\Users\Пользователь\source\repos\ekzamen\ekzamen\ekzamen.cpp(417,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\ekzamen\ekzamen\ekzamen.cpp(419,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\ekzamen\ekzamen\ekzamen.cpp(454,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\ekzamen\ekzamen\ekzamen.cpp(455,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\ekzamen\ekzamen\ekzamen.cpp(466,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Пользователь\source\repos\ekzamen\ekzamen\ekzamen.cpp(25,15): warning C4101: r: неиспользованная локальная переменная
+  ekzamen.vcxproj -> C:\Users\Пользователь\source\repos\ekzamen\Debug\ekzamen.exe
